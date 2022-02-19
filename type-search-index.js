@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.minestombrick.scheduler.api","l":"Scheduler"},{"p":"org.minestombrick.scheduler.api","l":"SchedulerAPI"},{"p":"org.minestombrick.scheduler.api","l":"SchedulerTask"}];updateSearchResults();
